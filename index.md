@@ -1,7 +1,7 @@
-<h1 align="center">Greetings I am Danny Fast</h1>
+<h1 align="center">Danny Fast</h1>
 <h3 align="center">A unicorn DevSecOps engineer who loves Go and Terraform</h3>
 
-- 🔭 I’m currently working on **Better README.md**
+- 🔭 I’m currently working on a **building patterns for Dev (with Sec) for Ops**
 
 - 🌱 I’m currently learning **Rust and GraphAPI**
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **dannyfast@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn/dannyfast](LinkedIn/dannyfast)
+- 📄 Know about my experiences [https://www.linkedin.com/in/dannyfast/](LinkedIn/dannyfast)
 
 - ⚡ Fun fact **Blackbelt and Dyslexic**
 
